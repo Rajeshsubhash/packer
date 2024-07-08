@@ -13,6 +13,6 @@ build {
     sources =["source.amazon-ebs.httpd"]
     
  provisioner "shell" {
-    script = script.sh
+    script = "script.sh"
  }
 }
