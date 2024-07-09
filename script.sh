@@ -15,8 +15,6 @@ sudo systemctl start apache2
 # Verify Apache is running
 sudo systemctl status apache2
 
-# (Optional) Test default web page
-# Open http://localhost in your web browser
 
 echo "Apache2 installation complete!"
 
