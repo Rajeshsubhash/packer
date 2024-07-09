@@ -15,6 +15,5 @@ sudo systemctl start apache2
 # Verify Apache is running
 sudo systemctl status apache2
 
-
 echo "Apache2 installation complete!"
 
